@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded",function(){
     if(right>=screen.width){
       star.remove();
     }
-    right+=1;
+    right+=5;
     star.style.right=right+"px";
   }
   } 
