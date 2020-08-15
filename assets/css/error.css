@@ -30,7 +30,7 @@ h1{
   width:100px;
   position:absolute;
   top:60%;
-  animation:astronautFly 4s infinite linear;
+  animation:astronautFly 9s infinite linear;
 }
 @keyframes astronautFly{
   0%{
