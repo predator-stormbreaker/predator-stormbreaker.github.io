@@ -11,12 +11,12 @@ background-image: linear-gradient(to top, #2e1753, #1f1746, #131537, #0d1028, #0
 }
 .text{
   position:absolute;
-  top:10%;
+  top:40%;
   color:#fff;
   text-align:center;
 }
 h1{
-  font-size:50px;
+  font-size:80px;
 }
 .star{
   position:absolute;
@@ -29,7 +29,7 @@ h1{
 .astronaut img{
   width:100px;
   position:absolute;
-  top:55%;
+  top:60%;
   animation:astronautFly 6s infinite linear;
 }
 @keyframes astronautFly{
