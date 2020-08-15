@@ -54,7 +54,7 @@ h3{
     transform:rotate(30deg);
   }
   100%{
-    left: 95%;
+    left: 90%;
     transform:rotate(45deg);
   }
 }
