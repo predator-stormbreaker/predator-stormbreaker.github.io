@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/54d9bd72c2e7145c9b446a9921e09befcb733a9e/assets/img/Programming.svg" target="_blank"></img>
 </p>
 
-<h3 align="center"> A static website, Designed with bootstrap from scratch, Customizable Template <br/> Best Template for Android Kernel Developers Only! </h3>
+<h3 align="center"> A static website, Designed with HTML, Customizable Template <br/> Best Template for Android Kernel Developers Only! </h3>
 
 <p align="center">
       <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
