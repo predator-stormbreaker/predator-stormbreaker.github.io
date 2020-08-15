@@ -63,10 +63,6 @@ Our aim is to Provide a Stable Kernel with an Improved Experience! Our Kernel ha
 - To deploy your website, you have two options. First you need to create a github repository with the name `<your-github-username>.github.io`. Please don't give it any other name.
 - Now, you need to generate a production build and deploy the website.
 
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/master/assets/img/20200622_213732-01-01.jpeg"></img>
-</p>
-
 # Assets used from ⚡
 
 - [HTML](https://html.com/html5)
