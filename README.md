@@ -1,7 +1,7 @@
 <h1 align="center"> Predator Stormbreaker </h1> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/05c3f725035d41b9538120792bf565c998ece3bf/assets/img/Programming.svg"></img>
+  <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/54d9bd72c2e7145c9b446a9921e09befcb733a9e/assets/img/Programming.svg" target="_blank"></img>
 </p>
 
 <h3 align="center"> A static website, Designed with bootstrap from scratch, Customizable Template <br/> Best Template for Android Kernel Developers Only! </h3>
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/master/assets/img/hero.png" target="_blank"></img>
+    <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/master/assets/img/20200622_213732-01-01.jpeg" target="_blank"></img>
   </a>
 </p>
 
@@ -94,7 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 - Predator Gang, For Everything and Everything... 🤩
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/05c3f725035d41b9538120792bf565c998ece3bf/assets/img/www.svg"> </img>
+<img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/54d9bd72c2e7145c9b446a9921e09befcb733a9e/assets/img/www.svg" target="_blank"> </img>
 </p>
 
 # Contribute ✌🏻
