@@ -1,0 +1,50 @@
+Here are some cool Features which Predator Stormbreaker Kernel provides -
+
+1. CPU Governors:
+=>Schedutil[Default]
+2. I/O Schedulers:
+=> CFQ [Default]
+=> Maple
+=> Anxiety
+=> Zen
+=> BFQ
+=>(Other Schedulers->NO-OP,Deadline,Test-I/O sched)
+3. Wireguard Protocol Implemented
+4. Dynamic Schedtune Boost
+5. Core Control
+6. GPU Control
+7. Faster File Operation Speed Tweaks
+8. Swap On & Haptic Feedback Control
+9. Scheduler Tuning & Undevolted
+10. TCP Congestion Algorithm [ Unlocked All TCP ]
+=> Cubic
+=>Westwood[Default]
+=> Reno
+12. Implemented DTS Sound Modification Enhancements
+13. KCAL Control & TTL Fixation Fix
+14. Sound Control & Sound Boost
+15. Upstreamed and Latest CAF and Linux Stable Patches.
+16. Compiled using GCC 10.1
+17. Various Optimizations and Enhancements For Battery & Performance
+18. Backlight Dimmer & Power suspend Implementation
+19. NET / TCP Tweaks for speed improvements.
+20. CRC Check Switch ( Enabled by Default)
+21.. Apps Battery Optimizations
+22. FSync Toggle(Enabled by Default)
+23. Panel Battery Tweaks
+24. GPU Power Optimizations For Battery
+25. Memory Optimisations and File System Tweaks For Peformance
+26. System wide power efficient workqueues for better battery saving
+27. Mic Gain Control and Boost
+28. Implemented LZ4 Super Fast ZRam compression algorithm with z3fold zram backend.
+29. Disabled Rx and other rogue Wakelocks for Better Battery saving
+30. Removed various High Priority Workqueue Flags For Battery and Performance
+31. Removed unnecessary debugging and logging For Battery and Performance.
+32. DriveDroid Support Implementation.
+33. Removed unneeded drivers to make kernel lite.
+34. F2FS Fully Supported and Stable.
+35. Various GCC Optimizations For Peformance Gain.
+36. USB Force Fast Charge Implementation (Disabled By Default)
+37. Boeffla Wakelock Blocker Implementation
+38. XBOX and Playstation Controller Support.
+39. Functional OTG Support

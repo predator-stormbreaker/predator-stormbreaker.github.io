@@ -1,0 +1,42 @@
+Here are some cool Features which Predator Stormbreaker Kernel provides -
+
+1. Wireguard Protocol Implemented
+2. Schedtune Boost
+3. Core Control
+4. GPU Control
+5. Faster File Operation Speed Tweaks
+6. Swap On & Haptic Feedback Control
+7. Scheduler Tuning & Undevolted
+8. TCP Congestion Algorithm [ Unlocked All TCP ]
+=> Cubic
+=>Westwood[Default]
+=> Reno
+9. Implemented DTS Sound Modification Enhancements
+10. KCAL Control & TTL Fixation Fix
+11. Sound Control & Sound Boost
+12. Upstreamed and Latest CAF & Linux Merged.
+13. Compiled using Proton Clang
+14. Various Optimizations and Enhancements For Battery & Performance
+15. Backlight Dimmer & Power suspend Implementation
+16. NET / TCP Tweaks for speed improvements.
+17. CRC Check Disabled For Performance Boost
+18.. Apps Battery Optimizations
+19. FSync Toggle(Enabled by Default)
+20. Panel Battery Tweaks
+21. GPU Power Optimizations For Battery
+22. Memory Optimisations For Peformance
+23. System wide power efficient workqueues for better battery saving
+24. Mic Gain Control and Boost
+25. Implemented LZ4 Super Fast ZRam compression algorithm
+26. Disabled Rx and other rogue Wakelocks for Better Battery saving
+27. Removed various High Priority Workqueue Flags For Battery and Performance
+28. Removed unnecessary debugging and logging For Battery and Performance.
+29. DriveDroid Support Implementation.
+30. Miscellaneous Bug Fixes and Security Enhancements
+31. F2FS Fully Supported and Stable.
+32. Various Clang Compiler Optimizations For Peformance Gain.
+33. USB Force Fast Charge Implementation
+34. Boeffla Wakelock Blocker Implementation
+35. CRC Check Toggle Added
+36. XBOX and Playstation Controller Support.
+37. Functional OTG Support
