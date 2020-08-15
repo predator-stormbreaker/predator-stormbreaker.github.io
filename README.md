@@ -14,7 +14,7 @@
 </p>
 
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/master/assets/img/20200622_213732-01-01.jpeg" target="_blank"></img>
+    <img src="https://raw.githubusercontent.com/predator-stormbreaker/predator-stormbreaker.github.io/master/assets/img/hero.png" target="_blank"></img>
   </a>
 </p>
 
