@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 </p>
 
 # Contribute ✌🏻
-This Repository is Open Sourced. You can Fork, Create Pull Requests 🙂 with
+This Repository is Open Sourced. You can Fork, Create Pull Requests with
 - Responsive Layout <br>
 - Little More Animations <br>
 
