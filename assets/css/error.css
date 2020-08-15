@@ -20,7 +20,6 @@ h1{
 }
 
 h3{
-	text-align:center;
   font-size:70px;
 }
 
@@ -36,7 +35,7 @@ h3{
   width:100px;
   position:absolute;
   top:60%;
-  animation:astronautFly 11s infinite linear;
+  animation:astronautFly 10s infinite linear;
 }
 @keyframes astronautFly{
   0%{
@@ -55,7 +54,7 @@ h3{
     transform:rotate(30deg);
   }
   100%{
-    left: 110%;
+    left: 100%;
     transform:rotate(45deg);
   }
 }
